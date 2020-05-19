@@ -1,0 +1,9 @@
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\bin\Debug\netstandard2.0\UdpComManagerCore.deps.json
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\bin\Debug\netstandard2.0\UdpComManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\obj\Debug\netstandard2.0\UdpComManagerCore.csprojAssemblyReference.cache
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\obj\Debug\netstandard2.0\UdpComManagerCore.AssemblyInfoInputs.cache
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\obj\Debug\netstandard2.0\UdpComManagerCore.AssemblyInfo.cs
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\bin\Debug\netstandard2.0\UdpComManagerCore.pdb
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\obj\Debug\netstandard2.0\UdpComManagerCore.csproj.CoreCompileInputs.cache
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\obj\Debug\netstandard2.0\UdpComManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\UdpComManagerCore\UdpComManagerCore\obj\Debug\netstandard2.0\UdpComManagerCore.pdb
